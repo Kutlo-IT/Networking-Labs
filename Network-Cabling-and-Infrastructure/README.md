@@ -27,4 +27,4 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Project Evidence
 
-![TerminatedNetworkpoint](images/TerminatedNetworkpoint.jpg)
+<img src="images/TerminatedNetworkpoint.jpg" width="200">
