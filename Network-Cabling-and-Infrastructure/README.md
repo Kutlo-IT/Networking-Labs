@@ -23,7 +23,7 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Tools and Equipment
 
-![Tools](images/Tools.jpg)
+<img src="images/Tools.jpg" width="400">
 
 ## Project Evidence
 
