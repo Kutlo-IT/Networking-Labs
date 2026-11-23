@@ -23,7 +23,7 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Tools and Equipment
 
-![Network Point](images/your-image-name.jpg)
+![Tools](Network-Cabling-and-Infrastructure/images/Tools for terminating cable.jpeg)
 
 ## Project Evidence
 
