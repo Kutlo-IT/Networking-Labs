@@ -23,7 +23,7 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Tools and Equipment
 
-Photographs of the tools and equipment used during the cabling installation will be included in this section.
+![Network Point](images/your-image-name.jpg)
 
 ## Project Evidence
 
