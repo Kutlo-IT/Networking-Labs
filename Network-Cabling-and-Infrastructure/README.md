@@ -30,3 +30,5 @@ This project showcases practical experience in network cabling and infrastructur
 <img src="images/TerminatedNetworkpoint.jpg" width="200">
 <img src="images/Cablingworks.jpg" width="200">
 
+<img src="images/Cabinet.jpg" width="200"><img src="images/Cablingworks.jpg" width="200"><img src="images/Cablingworks.jpg" width="200">
+
