@@ -27,4 +27,4 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Project Evidence
 
-Photographs documenting the network cabling process, network point termination and cabinet setup.
+![Terminated Network point](images/Terminated20%Network20%point.jpeg)
