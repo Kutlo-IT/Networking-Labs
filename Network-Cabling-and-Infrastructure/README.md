@@ -27,4 +27,4 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Project Evidence
 
-![Terminated20%Network20%point](images/Terminated20%Network20%point.jpeg)
+![TerminatedNetworkpoint](Network-Cabling-and-Infrastructure/images/TerminatedNetworkpoint.jpg)
