@@ -23,8 +23,8 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Tools and Equipment
 
-![Tools](Network-Cabling-and-Infrastructure/images/Tools.jpg)
+![Tools](images/Tools.jpg)
 
 ## Project Evidence
 
-![TerminatedNetworkpoint](Network-Cabling-and-Infrastructure/images/TerminatedNetworkpoint.jpg)
+![Terminated Network point](Network-Cabling-and-Infrastructure/images/TerminatedNetworkpoint.jpg)
