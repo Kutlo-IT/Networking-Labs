@@ -27,6 +27,6 @@ This project showcases practical experience in network cabling and infrastructur
 
 ## Project Evidence
 
- <img src="images/Cablingworks.jpg" width="200"> <img src="images/Cabinet.jpg" width="200"> <img src="images/Cabling_1.jpg" width="200"> <img src="images/Cabling.jpg" width="200"> <img src="images/Cabling_2.jpg" width="200"> <img src="images/point.jpg" width="400">
+ <img src="images/Cablingworks.jpg" width="200"> <img src="images/Cabinet.jpg" width="200"> <img src="images/Cabling_1.jpg" width="200"> <img src="images/Cabling.jpg" width="200"> <img src="images/Cabling_2.jpg" width="200"> <img src="images/point.jpg" width="350">
 
 
